@@ -1,0 +1,3 @@
+---
+title: Winning Lineup Analysis
+---
