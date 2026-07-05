@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" role="img" aria-labelledby="title desc">
+  <title id="title">DFS lineup construction relationship map</title>
+  <desc id="desc">Salary, ownership, correlation, contest, and late swap connect to a central lineup construction node.</desc>
+  <rect width="760" height="360" rx="24" fill="#f6f4ee"/>
+  <g stroke="#50616b" stroke-width="3">
+    <line x1="380" y1="180" x2="135" y2="90"/>
+    <line x1="380" y1="180" x2="380" y2="70"/>
+    <line x1="380" y1="180" x2="625" y2="90"/>
+    <line x1="380" y1="180" x2="215" y2="290"/>
+    <line x1="380" y1="180" x2="545" y2="290"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="18" text-anchor="middle">
+    <rect x="275" y="145" width="210" height="70" rx="16" fill="#183b4e"/>
+    <text x="380" y="186" fill="#ffffff" font-weight="700">Lineup Construction</text>
+    <g fill="#d9ead3" stroke="#50616b" stroke-width="2">
+      <rect x="70" y="55" width="130" height="60" rx="14"/>
+      <rect x="305" y="35" width="150" height="60" rx="14"/>
+      <rect x="550" y="55" width="150" height="60" rx="14"/>
+      <rect x="145" y="260" width="140" height="60" rx="14"/>
+      <rect x="470" y="260" width="150" height="60" rx="14"/>
+    </g>
+    <g fill="#183b4e" font-weight="700">
+      <text x="135" y="92">Salary</text>
+      <text x="380" y="72">Ownership</text>
+      <text x="625" y="92">Correlation</text>
+      <text x="215" y="297">Contest</text>
+      <text x="545" y="297">Late Swap</text>
+    </g>
+  </g>
+</svg>
