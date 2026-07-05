@@ -4,7 +4,7 @@ title: Ownership and Leverage
 
 # Ownership and Leverage
 
-![A DFS ownership and leverage graphic showing projected ownership, chalk plays, pivot routes, duplication risk, and lower-owned leverage options.](assets/ownership-and-leverage.png)
+![[assets/ownership-and-leverage.png]]
 
 Projected ownership estimates the percentage of lineups expected to roster a player. A heavily owned option is often called chalk. Chalk usually forms for defensible reasons: strong projection, favorable price, expanded role, or access to a high team total. The strategic question is not whether a player is popular, but whether the expected return supports that popularity in a specific contest.
 

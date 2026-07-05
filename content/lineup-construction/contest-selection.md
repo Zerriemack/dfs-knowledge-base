@@ -4,7 +4,7 @@ title: Contest Selection
 
 # Contest Selection
 
-![A DFS contest selection graphic showing cash games, single-entry contests, three-max contests, large-field tournaments, payout structures, and bankroll allocation.](assets/contest-selection.png)
+![[assets/contest-selection.png]]
 
 Contest selection determines what a lineup must accomplish. The same roster can be sensible in a double-up and poorly suited to a large-field tournament because the opponents, payout structures, and winning thresholds differ. Choose the contest before building so every roster decision serves a defined objective.
 
