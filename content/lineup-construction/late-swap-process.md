@@ -4,7 +4,7 @@ title: Late Swap Process
 
 # Late Swap Process
 
-![[assets/late-swap-process.png]]
+![[late-swap-process.png]]
 
 Late swap is a structured reassessment of unlocked roster spots after a slate begins. It is not an automatic reason to change players. The decision should combine new information with the lineup's current position, remaining salary, observed ownership, and the range of outcomes still available.
 

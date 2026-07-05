@@ -6,7 +6,7 @@ title: Lineup Construction
 
 Lineup construction turns projections, salaries, ownership estimates, and contest rules into a playable DFS roster. A strong process treats those inputs as connected decisions. Paying for one player changes the salary available elsewhere. Choosing a popular stack affects duplication risk. Entering a top-heavy tournament changes how much correlation and uniqueness the lineup needs. News after lock can change every remaining choice.
 
-![[assets/lineup-construction-map.svg]]
+![[lineup-construction-map.svg]]
 
 ## Topics in This Section
 

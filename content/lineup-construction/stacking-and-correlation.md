@@ -4,7 +4,7 @@ title: Stacking and Correlation
 
 # Stacking and Correlation
 
-![[assets/stacking-and-correlation.png]]
+![[stacking-and-correlation.png]]
 
 Correlation describes how one player's fantasy result changes the probability of another player's result. Tournament lineups benefit when several roster spots can reach their ceilings through the same game events. Instead of requiring unrelated players to post separate outlier scores, a correlated lineup can gain multiple scoring events from one productive environment.
 

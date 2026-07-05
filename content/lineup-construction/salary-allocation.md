@@ -4,7 +4,7 @@ title: Salary Allocation
 
 # Salary Allocation
 
-![[assets/salary-allocation.png]]
+![[salary-allocation.png]]
 
 Salary allocation is the distribution of a fixed cap across roster spots. Using the entire cap can produce a strong lineup, but salary spent is not the same as points earned. The useful question is whether each salary choice supports the lineup's plan for the slate and contest.
 
