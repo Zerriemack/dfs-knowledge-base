@@ -1,5 +1,5 @@
 ---
-title: Analyzing an Organizing System: Pro Football Reference
+title: "Analyzing an Organizing System: Pro Football Reference"
 ---
 
 # Analyzing an Organizing System: Pro Football Reference
