@@ -1,5 +1,9 @@
 ---
-title: Salary Allocation
+title: "Salary Allocation"
+date: 2026-07-26
+tags:
+  - dfs
+  - salary
 ---
 
 # Salary Allocation
@@ -26,3 +30,5 @@ Use this sequence:
 4. Review popularity through [[ownership-and-leverage]].
 
 Salary allocation should match slate context. Pricing efficiency, position scarcity, injuries, and the available game environments matter more than a fixed rule about spending every dollar.
+
+Related: [[lineup-construction/index|Lineup Construction]], [[slate-analysis/small-slates-vs-main-slates|Small Slates vs. Main Slates]], and [[lineup-construction/contest-selection|Contest Selection]].

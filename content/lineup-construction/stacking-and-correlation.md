@@ -1,5 +1,9 @@
 ---
-title: Stacking and Correlation
+title: "Stacking and Correlation"
+date: 2026-07-26
+tags:
+  - dfs
+  - correlation
 ---
 
 # Stacking and Correlation
@@ -27,3 +31,5 @@ Review these factors before committing roster spots:
 > Correlation improves a lineup when the linked players also have sound roles, prices, and ceilings.
 
 A popular game can still be the correct foundation, but [[ownership-and-leverage]] should guide the secondary pieces or construction. Salary also limits which combinations fit, so compare the stack against the alternatives described in [[salary-allocation]]. The goal is a lineup with a coherent path to a ceiling score, not the highest possible number of players from one game.
+
+Related: [[lineup-construction/index|Lineup Construction]], [[slate-analysis/game-environments|Game Environments]], and [[contest-strategy/cash-games-vs-tournaments|Cash Games vs. Tournaments]].

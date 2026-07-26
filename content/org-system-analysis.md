@@ -1,5 +1,9 @@
 ---
 title: "Analyzing an Organizing System: Pro Football Reference"
+date: 2026-07-26
+tags:
+  - dfs
+  - research
 ---
 
 # Analyzing an Organizing System: Pro Football Reference
@@ -31,3 +35,5 @@ For example, a user can start on a team's 2023 season page, click a player, open
 ## Conclusion
 
 Pro Football Reference is an effective organizing system because it supports both direct lookup and exploratory research. It organizes football history through linked pages, sortable tables, and category-based navigation, allowing users to move from broad historical records to specific performances without losing context.
+
+Related: [[tools-and-workflow/weekly-research-process|Weekly Research Process]], [[player-research/index|Player Research]], and the [[index|homepage]].

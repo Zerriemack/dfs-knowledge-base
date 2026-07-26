@@ -1,5 +1,9 @@
 ---
-title: Ownership and Leverage
+title: "Ownership and Leverage"
+date: 2026-07-26
+tags:
+  - dfs
+  - ownership
 ---
 
 # Ownership and Leverage
@@ -24,3 +28,5 @@ Duplication risk rises when a lineup combines the most common value plays, obvio
 - avoid pairing every popular value play in one lineup
 
 Ownership belongs in the full construction process. [[contest-selection]] determines how aggressive the lineup should be. Small fields often reward modest pivots, while large fields demand a narrower and less duplicated path to first place. After lock, actual ownership can also shape decisions in the [[late-swap-process]].
+
+Related: [[lineup-construction/index|Lineup Construction]], [[slate-analysis/ownership-projections|Ownership Projections]], and [[contest-strategy/field-size-and-payout-structure|Field Size and Payout Structure]].

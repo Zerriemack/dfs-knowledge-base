@@ -1,5 +1,9 @@
 ---
-title: Contest Selection
+title: "Contest Selection"
+date: 2026-07-26
+tags:
+  - dfs
+  - contests
 ---
 
 # Contest Selection
@@ -27,3 +31,5 @@ Set entry limits before lineup building. A practical process includes:
 5. Review results by format rather than by one volatile slate.
 
 Payout structure should determine how much variance is acceptable. Flat structures support safer builds; top-heavy structures require greater ceiling and differentiation. That choice affects [[ownership-and-leverage]] before lock and the [[late-swap-process]] after early results become known.
+
+Related: [[lineup-construction/index|Lineup Construction]], [[contest-strategy/index|Contest Strategy]], and [[contest-strategy/field-size-and-payout-structure|Field Size and Payout Structure]].

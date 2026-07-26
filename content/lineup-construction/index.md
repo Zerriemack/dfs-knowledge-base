@@ -1,5 +1,9 @@
 ---
-title: Lineup Construction
+title: "Lineup Construction"
+date: 2026-07-26
+tags:
+  - dfs
+  - lineup-construction
 ---
 
 # Lineup Construction
@@ -19,3 +23,5 @@ Lineup construction turns projections, salaries, ownership estimates, and contes
 ### How to Use the Section
 
 Start with contest selection, then evaluate salary and correlation before accounting for ownership. Revisit the full plan during late swap rather than treating each open roster spot as an isolated decision.
+
+Related categories: [[contest-strategy/index|Contest Strategy]], [[player-research/index|Player Research]], and the [[index|homepage]].

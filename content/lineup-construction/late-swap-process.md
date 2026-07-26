@@ -1,5 +1,9 @@
 ---
-title: Late Swap Process
+title: "Late Swap Process"
+date: 2026-07-26
+tags:
+  - dfs
+  - late-swap
 ---
 
 # Late Swap Process
@@ -27,3 +31,5 @@ Before saving a swap, ask:
 Keep later-starting players in flexible slots whenever possible. This preserves options across positions and makes [[salary-allocation]] easier when news arrives. Review [[ownership-and-leverage]] before moving away from a popular play solely because it is popular.
 
 Staying with the original lineup is correct when no material news has changed, the early results fit the planned game scripts, and the alternatives sacrifice meaningful projection for weak leverage. Every swap should improve the lineup's conditional path from its current state, not express discomfort with results already recorded.
+
+Related: [[lineup-construction/index|Lineup Construction]], [[slate-analysis/late-news-and-slate-changes|Late News and Slate Changes]], and [[tools-and-workflow/lineup-review|Lineup Review]].
